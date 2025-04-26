@@ -65,19 +65,6 @@ The project utilizes two datasets acquired from Kaggle:
 - PostgreSQL
 - Required Python libraries: Install using `pip install -r requirements.txt`
 
-### Running the Project
-1. Clone the repository: `git clone <repo-url>`
-2. Set up databases:
-   - Start MongoDB and PostgreSQL servers.
-   - Import JSON data into MongoDB.
-   - Load CSV data into PostgreSQL.
-3. Run data processing scripts:
-   ```sh
-   python data_processing.py
-   ```
-4. Start the interactive dashboard:
-   ```sh
-   python dashboard.py
-   ```
+
 
 
